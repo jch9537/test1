@@ -29,6 +29,7 @@ class Text extends Component {
           inputValue={this.state.inputValue}
           alertInput={this.alertInput}
         />
+        <p>뭐라하노인마</p>
       </div>
     );
   }
